@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AE48B8EA-1C4E-4B66-8DF1-851D5F48989E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 367,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Steve Rodriguez",
+  "nameIsFixed": true,
+  "overrides": {
+    "82C419FC-5D69-4EFC-802E-7D301B034BCD": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/bdaeebb767c068221f46e9cfc6c020bda327741d",
+      "_ref_class": "MSImageData"
+    },
+    "E510F452-D83C-4431-845B-1E43EBA469E3": "There is lot to talk",
+    "F23CC8A1-EAED-4E4E-B510-147EC1DABD75": "Steve Rodriguez "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4171F0EF-8671-4126-93AA-875D49A14405",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

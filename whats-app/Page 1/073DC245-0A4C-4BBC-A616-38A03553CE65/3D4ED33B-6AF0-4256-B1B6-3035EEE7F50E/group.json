@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "3D4ED33B-6AF0-4256-B1B6-3035EEE7F50E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 376,
+    "x": 0,
+    "y": 391
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "00A7402B-B9B7-4F14-BA21-A6149379F3F3"
+    },
+    {
+      "class": "group",
+      "id": "3A0E2EFB-6CC1-471F-A251-20FF4E546FE8"
+    },
+    {
+      "class": "group",
+      "id": "521411FA-936A-4FDB-88A5-40AF24CD5ECB"
+    },
+    {
+      "class": "group",
+      "id": "233864E6-2885-4354-996A-25C746E24BE1"
+    },
+    {
+      "class": "group",
+      "id": "CE2BD181-57F8-401E-AA79-E85E94B56924"
+    }
+  ],
+  "name": "Second Block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "FFA1F08D-23EF-4CA4-947F-B0C7A956C470",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 289,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7F178801-9F2C-4201-A09E-D1AA20873158"
+    },
+    {
+      "class": "text",
+      "id": "21CD2FD9-EC3C-4FA9-884F-529951D6363E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD04EFAB-FC9F-499E-ADE1-95BB358F3AF0"
+    },
+    {
+      "class": "group",
+      "id": "B4B48B2F-08D6-4717-BE14-D3C4432DE027"
+    },
+    {
+      "class": "text",
+      "id": "60BC74A2-97C4-4BBE-8596-B8F8853F600F"
+    },
+    {
+      "class": "group",
+      "id": "40A6999A-2086-474B-80D1-B67A5F052A66"
+    }
+  ],
+  "name": "Recording",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

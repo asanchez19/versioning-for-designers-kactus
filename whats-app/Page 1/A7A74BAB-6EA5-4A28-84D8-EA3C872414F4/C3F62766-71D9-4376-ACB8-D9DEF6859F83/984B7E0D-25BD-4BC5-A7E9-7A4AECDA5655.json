@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "984B7E0D-25BD-4BC5-A7E9-7A4AECDA5655",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 363,
+    "x": 0,
+    "y": 248
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Audio call Copy 3",
+  "nameIsFixed": false,
+  "overrides": {
+    "E5587741-DF96-4E20-A13B-2068F1C1C604": "Teresa Lisbon",
+    "F7056A23-28D3-4DBD-AA5A-79ABF41D025A": "incoming",
+    "FE37AD34-5028-44A9-87C4-FC2D362BC61E": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/aa556396c76ac8d3680432cb78a833b370b64da6",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "87DB83DC-4C92-4840-8715-3444167C7AA4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

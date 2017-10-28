@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "FB509980-5F05-447E-965C-D5BE9E8AC790",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 73,
+    "width": 376,
+    "x": 0,
+    "y": 151
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F096A50B-B801-4982-98C8-567B703B3924"
+    },
+    {
+      "class": "group",
+      "id": "91F411AD-4C1D-46DE-9FEF-8F18CA5DD901"
+    },
+    {
+      "class": "text",
+      "id": "4B4DEC87-9126-4289-BCE0-156DA1A0C269"
+    },
+    {
+      "class": "text",
+      "id": "F77B9DD4-08B9-4E02-8EE5-C17EDD1FF117"
+    },
+    {
+      "class": "group",
+      "id": "53E409ED-F637-46E0-BFA5-37C1F8A92FB6"
+    },
+    {
+      "class": "group",
+      "id": "321ABE08-7955-4698-BC89-9B2BDF01DD42"
+    }
+  ],
+  "name": "My Status",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

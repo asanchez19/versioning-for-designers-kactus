@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "9660AF77-623F-4DE9-B651-F601D03C252B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A07CB7C-D017-4223-BF51-AEFABBBBF21D"
+    },
+    {
+      "class": "group",
+      "id": "54982555-6661-4BF3-8945-AF09F3D28633"
+    },
+    {
+      "class": "group",
+      "id": "E4126915-EE58-4F33-81CA-06F2110C8387"
+    },
+    {
+      "class": "group",
+      "id": "43FC8C11-7FD0-49D4-990E-211766A399EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A96C49AE-0E21-4801-9545-1A17C010F790"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FC30847-7725-49E3-8987-17CF4F27EBD9"
+    }
+  ],
+  "name": "Chat Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

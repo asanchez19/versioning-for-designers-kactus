@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "69CF9EA0-A1B2-4E8D-B414-6A13FE03B376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 342,
+    "x": 16,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BF925BD5-3676-4CF1-82AA-A0610D31CA0C"
+    },
+    {
+      "class": "text",
+      "id": "64AA7C4E-5414-4F94-BF2C-956A29333A3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2EB63E09-B18B-430A-AE54-7914844C09BE"
+    }
+  ],
+  "name": "WhatsApp Web/Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

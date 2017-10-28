@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "518CB2D7-1ACD-4C4D-A4CD-209085275178",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 363,
+    "x": 0,
+    "y": 73
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "test copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "02287573-AC73-4F8F-AAFA-AEFCAE9E8B1B": "23h ago",
+    "1F25939A-9E74-46C9-BBBB-3ED5E2C72720": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/1838fd2a06a9ee504751519221f9a38559c85ac2",
+      "_ref_class": "MSImageData"
+    },
+    "B4EF07C8-DBA8-4CDA-9703-B033D75E941F": "Reed Joseph"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4F49B0F3-25D7-41B7-95F0-47B9F26B68E7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

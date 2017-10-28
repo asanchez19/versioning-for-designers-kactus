@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "57FA6B9F-8717-4A32-A982-C990F6F9839E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 262,
+    "x": 3,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B8A08800-1154-4046-A1B4-0B4544AA0354"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "164DD8FD-F8D4-46A2-9A63-B3C5A5775D7A"
+    },
+    {
+      "class": "text",
+      "id": "D7484BE1-4B7F-4F79-8564-BD454CF18FB1"
+    },
+    {
+      "class": "text",
+      "id": "1958CB42-A60F-48CC-8DD3-0EEDCC046D10"
+    }
+  ],
+  "name": "Reply Rectangle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

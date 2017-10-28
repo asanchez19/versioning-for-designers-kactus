@@ -1,0 +1,147 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "9043CCCC-9AEC-4ED2-AD9D-9B589DBA4450",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11.154,
+    "width": 6.240000000000002,
+    "x": 0,
+    "y": 5.436000000000035
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.96736596736596447}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.96736596736596447}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.96736596736596447}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.32083333333333364, 0.96736596736596447}",
+        "curveMode": 1,
+        "curveTo": "{0.32083333333333364, 0.96736596736596447}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.32083333333333364, 0.96736596736596447}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.32083333333333364, 0.032634032634035581}",
+        "curveMode": 1,
+        "curveTo": "{0.32083333333333364, 0.032634032634035581}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.32083333333333364, 0.032634032634035581}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.032634032634035581}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.032634032634035581}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.032634032634035581}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0}",
+        "curveMode": 1,
+        "curveTo": "{0, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.67916666666666636, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.67916666666666636, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.67916666666666636, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.67916666666666636, 0.96736596736596447}",
+        "curveMode": 1,
+        "curveTo": "{0.67916666666666636, 0.96736596736596447}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.67916666666666636, 0.96736596736596447}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.96736596736596447}",
+        "curveMode": 1,
+        "curveTo": "{1, 0.96736596736596447}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0.96736596736596447}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 1}",
+        "curveMode": 1,
+        "curveTo": "{1, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 1}",
+        "curveMode": 1,
+        "curveTo": "{0, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 1}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

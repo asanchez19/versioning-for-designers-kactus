@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "521411FA-936A-4FDB-88A5-40AF24CD5ECB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 360,
+    "x": 16,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "925B2DEA-0FA2-4EBF-B7FD-3615B371509E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C98EF27-B6B4-4545-852B-E05F1CD9240F"
+    },
+    {
+      "class": "text",
+      "id": "D475F67E-A90D-47C6-84AD-5E0DE9A93C8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BFF1B7C1-5FC2-4075-BB79-8CAF15FF7064"
+    }
+  ],
+  "name": "Chats",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

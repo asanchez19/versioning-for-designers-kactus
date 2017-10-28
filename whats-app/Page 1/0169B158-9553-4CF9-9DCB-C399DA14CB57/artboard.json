@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "0169B158-9553-4CF9-9DCB-C399DA14CB57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 901,
+    "y": 1054
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      358
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EE2BFFF8-AF04-428E-93A0-944644DE1F8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CCBA291-DCEC-4411-AB75-6BF4C4FD8181"
+    },
+    {
+      "class": "group",
+      "id": "C79F1E3E-1437-4694-AA4F-020792AF4DA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BE31FD0-B735-43D8-885E-1C1A94EA812F"
+    },
+    {
+      "class": "group",
+      "id": "E2AD711F-DBC6-4E4F-91A0-066B14094ED0"
+    },
+    {
+      "class": "group",
+      "id": "FCE5AE25-6E95-415B-9835-7EDBE9A57C54"
+    },
+    {
+      "class": "group",
+      "id": "3280CA7B-EF43-41AD-99D5-5A7759A8AFDA"
+    },
+    {
+      "class": "group",
+      "id": "B3BA1F3A-3D00-4E1F-A36A-A3CDB6DA688C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26E7CC03-31E6-43D3-97CA-87ABE212E553"
+    },
+    {
+      "class": "group",
+      "id": "1FE5B821-D7CD-4132-BD93-7FBD3B65AF03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6484240-5164-4145-9098-C7090DE46F34"
+    }
+  ],
+  "name": "Chat",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
